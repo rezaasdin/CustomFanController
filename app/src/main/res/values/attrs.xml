@@ -2,11 +2,9 @@
 <resources>
 
     <declare-styleable name="DialView">
-
-        <attr name="test1" format="boolean"/>
-        <attr name="test2" format="boolean"/>
-
+        <attr name="fanColor1" format="color" />
+        <attr name="fanColor2" format="color" />
+        <attr name="fanColor3" format="color" />
     </declare-styleable>
-
 
 </resources>
